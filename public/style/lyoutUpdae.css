@@ -1,0 +1,30 @@
+.page-container .main-content{z-index: inherit;}
+.page-container .main-content:hover{z-index: inherit;}
+.layui-layer-setwin .layui-layer-close2{z-index: 100; }
+.layui-layer-content{padding-top: 5px;}
+.input-show{text-align: left;}
+.input-hide{text-align: center;cursor:auto!important;background-color:transparent!important;border: 0;box-shadow:none;}
+.fr_success{color: #428bca;}
+.display_none{display: none;}
+.ser_lyout{border: 2px solid #ddd;background:#fbfbfb;margin: 0;padding: 10px;}
+.ser_lyoutDiv{padding: 5px 0;}
+/*.ser_lyoutDiv .btn{margin:10px 20px;}*/
+.ser_input{float: left!important;margin: 5px 10px;}
+.ser_input .input-group-addon{background: #fbfbfb;border: none;}
+.batch-btn{display: inline-block;position: relative;margin: 0 5px;}
+.textId-hover{display: inline-block;white-space:nowrap;vertical-align: middle;}
+.textId{overflow: hidden;text-overflow: ellipsis;white-space: nowrap;width: 100px;display: inline-block;vertical-align: middle;}
+.dropdown-menu.no-spacing{margin-top: 0;}
+.time-right{border: 1px solid #e4e4e4;background: #eee;margin-right: 10px!important;border-left: 0;}
+.radio{margin-top: 0;}
+/***Dirtiver***/
+.check-right{margin-right: 5px!important;}
+.admin-input-lyout{margin: 5px 0;}
+.admin-input-lyout .admin-input-title{display: inline-block;vertical-align: top;line-height: 32px;}
+.admin-input-lyout .admin-input{display: inline-block;vertical-align: top;}
+.admin-input-lyout .admin-input span{display: inline-block;vertical-align: top;height:32px;line-height:32px;}
+.admin-input-lyout .admin-input button{margin-left: 10px;}
+.admin-input-lyout .admin-input input[type=text]{width: 50px;height: 32px;margin: 0 10px;outline: none;padding: 0 5px;}
+.admin-input-lyout .admin-input input[type=text]:focus{border:1px solid rgba(104,184,40,.5);padding: 0 5px;}
+.sidebar-menu .main-menu a>i{    display: inline-block;width: 20px;text-align: center;}
+/***end***/
